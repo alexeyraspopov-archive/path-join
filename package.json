@@ -1,6 +1,6 @@
 {
   "name": "path-join",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Join paths",
   "license": "MIT",
   "main": "index.js",
