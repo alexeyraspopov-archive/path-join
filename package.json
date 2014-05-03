@@ -1,0 +1,15 @@
+{
+  "name": "path-join",
+  "version": "0.0.1",
+  "description": "Join paths",
+  "license": "MIT",
+  "main": "index.js",
+  "author": "Alexey Raspopov (https://github.com/alexeyraspopov)",
+  "devDependencies": {
+    "jshint-stylish": "^0.2.0",
+    "gulp": "^3.6.2",
+    "gulp-jasmine": "^0.2.0",
+    "gulp-complexity": "^0.2.1",
+    "gulp-jshint": "^1.5.5"
+  }
+}
